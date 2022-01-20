@@ -1,6 +1,6 @@
-- 👋 @cyno-benzene here
-- 👀 interested in idk coding stuff
-- 🌱 I be hittin a lotta books
+- 👋 cyno-benzene here
+- 👀 interested in idk coding stuff 
+- 🌱 App-Sec Dev / Automation 
 - 💞️ looking to collaborate for bigger projects and do smaller task.
 - 📫 messege me or something, would love to hear your experiences.
 
