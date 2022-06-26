@@ -1,5 +1,5 @@
 - 👋 cyno-benzene here
-- 👀 interested in idk coding stuff 
+- 👀  
 - 🌱 App-Sec Dev / Automation 
 - 💞️ looking to contribute to projects 
 - 📫 messege me or something, would love to hear your experience
