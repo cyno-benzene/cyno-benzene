@@ -1,6 +1,5 @@
 - 👋 cyno-benzene here
-- 👀  
-- 🌱 App-Sec Dev / Automation 
+- 🌱 Interested in Web Application Security, Computer Networks, Machine Learning
 - 💞️ looking to contribute to projects 
 - 📫 messege me or something, would love to hear your experience
 
