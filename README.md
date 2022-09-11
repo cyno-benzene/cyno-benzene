@@ -1,4 +1,4 @@
-<h2>What is <a href="https://cyno-benzene.github.io/" target="__blank">cyno-benzene</a> up to !</h2>
+<h2>What is <a href="https://abhayrane.netlify.app/" target="__blank">cyno-benzene</a> up to !</h2>
 
 - 🌱 Interested in Web App Security, Computer Networks, Machine Learning
 - 📫 Mail me, would love to hear your experience
