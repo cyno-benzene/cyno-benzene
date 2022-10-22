@@ -1,10 +1,11 @@
 <h2>What is <a href="https://abhayrane.netlify.app/" target="__blank">cyno-benzene</a> up to !</h2>
 
-- 🌱 Interested in Web App Security, Computer Networks, Machine Learning
-- 📫 Mail me, would love to hear your experience
+- 🌱 Interested in Algorithms, System Programming & Machine Learning
+- 📫 <a href="mailto:abhayrane1@gmail.com" target="__blank">Mail</a> me, would love to hear your experience
 
 ```python
-Error 404: i forgor
+Segmentation Fault (core dumped)
+Process returned 420 (0x3B) execution time: 0.069 s
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
