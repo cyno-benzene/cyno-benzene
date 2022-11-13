@@ -8,8 +8,13 @@ Segmentation Fault (core dumped)
 Process returned 420 (0x3B) execution time: 0.069 s
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![@cynobenzene's Holopin board](https://holopin.me/cynobenzene)](https://holopin.io/@cynobenzene)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!---
 cyno-benzene/cyno-benzene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
