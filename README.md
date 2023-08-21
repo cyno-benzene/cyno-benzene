@@ -10,8 +10,9 @@ Process returned 420 (0x3B) execution time: 0.069 s
 
 [![@cynobenzene's Holopin board](https://holopin.me/cynobenzene)](https://holopin.io/@cynobenzene)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyno_benzene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
