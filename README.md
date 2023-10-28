@@ -3,18 +3,21 @@
 - 🌱 Interested in Algorithms, System Programming & Machine Learning
 - 📫 <a href="mailto:abhayrane1@gmail.com" target="__blank">Mail</a> me, would love to hear your experience
 
-```python
-Segmentation Fault (core dumped)
-Process returned 420 (0x3B) execution time: 0.069 s
+```c++
+// When I wrote that code, only God and I understood what I was doing
+// Now, God only knows
 ```
+<!--START_SECTION:badges-->
+[![Visits Badge](https://badges.pufler.dev/visits/cyno-benzene/cyno-benzene)](https://badges.pufler.dev)
+
 
 [![@cynobenzene's Holopin board](https://holopin.me/cynobenzene)](https://holopin.io/@cynobenzene)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyno-benzene&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyno_benzene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyno_benzene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
 
 <!---
