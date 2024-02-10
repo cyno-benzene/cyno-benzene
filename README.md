@@ -1,4 +1,4 @@
-<h2>What is <a href="https://abhayrane.netlify.app/" target="__blank">cyno-benzene</a> up to !</h2>
+<h2>What is <a href="https://abhayrane.co/" target="__blank">cyno-benzene</a> up to !</h2>
 
 - 🌱 Interested in Algorithms, System Programming & Machine Learning
 - 📫 <a href="mailto:abhayrane1@gmail.com" target="__blank">Mail</a> me, would love to hear your experience
